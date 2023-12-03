@@ -5,6 +5,16 @@ target 'AwesomeApp' do
   # Comment the next line if you don't want to use dynamic frameworks
   use_frameworks!
 
+  # Swift 中的响应式编程
+  pod 'RxSwift', '6.6.0'
+  pod 'RxCocoa', '6.6.0'
+  # Swift 初始化器的超甜语法糖
+  pod 'Then', '3.0.0'
+  # 以一种优雅的方式向用户展示正在发生的事情，并让他们做好准备等待哪些内容
+  pod 'SkeletonView', '1.30.4'
+  # 超过 500 个原生 Swift 扩展的便捷集合，可提高您的工作效率。
+  pod 'SwifterSwift', '6.0.0'
+  
   # Pods for AwesomeApp
 
   target 'AwesomeAppTests' do

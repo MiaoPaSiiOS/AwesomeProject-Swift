@@ -6,7 +6,7 @@
 //
 
 import UIKit
-
+import SkeletonView
 class ViewController: UIViewController {
 
     override func viewDidLoad() {

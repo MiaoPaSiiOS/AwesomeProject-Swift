@@ -1,3 +1,70 @@
-PODFILE CHECKSUM: 173fadf3068ccaf770f6e04a5825cffd1b95c180
+PODS:
+  - RxCocoa (6.6.0):
+    - RxRelay (= 6.6.0)
+    - RxSwift (= 6.6.0)
+  - RxRelay (6.6.0):
+    - RxSwift (= 6.6.0)
+  - RxSwift (6.6.0)
+  - SkeletonView (1.30.4)
+  - SwifterSwift (6.0.0):
+    - SwifterSwift/AppKit (= 6.0.0)
+    - SwifterSwift/Combine (= 6.0.0)
+    - SwifterSwift/CoreAnimation (= 6.0.0)
+    - SwifterSwift/CoreGraphics (= 6.0.0)
+    - SwifterSwift/CoreLocation (= 6.0.0)
+    - SwifterSwift/CryptoKit (= 6.0.0)
+    - SwifterSwift/Dispatch (= 6.0.0)
+    - SwifterSwift/Foundation (= 6.0.0)
+    - SwifterSwift/HealthKit (= 6.0.0)
+    - SwifterSwift/MapKit (= 6.0.0)
+    - SwifterSwift/SceneKit (= 6.0.0)
+    - SwifterSwift/SpriteKit (= 6.0.0)
+    - SwifterSwift/StoreKit (= 6.0.0)
+    - SwifterSwift/SwiftStdlib (= 6.0.0)
+    - SwifterSwift/UIKit (= 6.0.0)
+    - SwifterSwift/WebKit (= 6.0.0)
+  - SwifterSwift/AppKit (6.0.0)
+  - SwifterSwift/Combine (6.0.0)
+  - SwifterSwift/CoreAnimation (6.0.0)
+  - SwifterSwift/CoreGraphics (6.0.0)
+  - SwifterSwift/CoreLocation (6.0.0)
+  - SwifterSwift/CryptoKit (6.0.0)
+  - SwifterSwift/Dispatch (6.0.0)
+  - SwifterSwift/Foundation (6.0.0)
+  - SwifterSwift/HealthKit (6.0.0)
+  - SwifterSwift/MapKit (6.0.0)
+  - SwifterSwift/SceneKit (6.0.0)
+  - SwifterSwift/SpriteKit (6.0.0)
+  - SwifterSwift/StoreKit (6.0.0)
+  - SwifterSwift/SwiftStdlib (6.0.0)
+  - SwifterSwift/UIKit (6.0.0)
+  - SwifterSwift/WebKit (6.0.0)
+  - Then (3.0.0)
+
+DEPENDENCIES:
+  - RxCocoa (= 6.6.0)
+  - RxSwift (= 6.6.0)
+  - SkeletonView (= 1.30.4)
+  - SwifterSwift (= 6.0.0)
+  - Then (= 3.0.0)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SkeletonView
+    - SwifterSwift
+    - Then
+
+SPEC CHECKSUMS:
+  RxCocoa: 44a80de90e25b739b5aeaae3c8c371a32e3343cc
+  RxRelay: 45eaa5db8ee4fb50e5ebd57deec0159e97fa51e6
+  RxSwift: a4b44f7d24599f674deebd1818eab82e58410632
+  SkeletonView: 5a050f6411e697abd4cda0a8d767013399dccd69
+  SwifterSwift: 66843dc594f8fb890f5543c22545921d44acc004
+  Then: 844265ae87834bbe1147d91d5d41a404da2ec27d
+
+PODFILE CHECKSUM: 8daefcad0395558c1d0fe0c82889c43d90d3237c
 
 COCOAPODS: 1.11.3
